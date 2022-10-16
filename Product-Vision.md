@@ -1,3 +1,8 @@
-[TODO] Product Vision deliverable
+VISION – For anyone who either sells or buys products online, that naturally fear to be victim of frauds or misdeliveries, PayPobre is a reliable online payment system where each transaction is concluded only upon delivery, which is made possible by our association with shipping partners, making it simpler to address order returns
 
-Product Vision of your Main-Quest theme. It should be composed by the Product Vision Board and a summarised textual answer of the product vision questions.
+| Target Group                                  	| Needs                                          	| Product                                                   	| Business Goal                                                	|
+|-----------------------------------------------	|------------------------------------------------	|-----------------------------------------------------------	|--------------------------------------------------------------	|
+| For anyone who buys or sells products online: 	|                     Frauds                     	|          Safe and transparent money transactions          	| As a company, we want to make negotiations more efficient    	|
+|                   Companies                   	| Paid deliveries that never get to the costumer 	| Deliver confirmation with the respective shipping company 	|            Make bureaucracies less time consuming            	|
+|                   Consumers                   	|              Misdelivered packages             	|               Flexible exchanges and returns              	|                                                              	|
+|                    Sellers                    	|              Confusing interfaces              	|               Simple and accessible platform              	|                                                              	|
