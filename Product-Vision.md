@@ -2,7 +2,7 @@ VISION – For anyone who either sells or buys products online, that naturally f
 
 | Target Group                                  	| Needs                                          	| Product                                                   	| Business Goal                                                	|
 |-----------------------------------------------	|------------------------------------------------	|-----------------------------------------------------------	|--------------------------------------------------------------	|
-| For anyone who buys or sells products online: 	|                     Frauds                     	|          Safe and transparent money transactions          	| As a company, we want to make negotiations more efficient    	|
+| For anyone who buys or sells products online 	|                     Frauds                     	|          Safe and transparent money transactions          	| As a company, we want to make negotiations more efficient    	|
 |                   Companies                   	| Paid deliveries that never get to the costumer 	| Deliver confirmation with the respective shipping company 	|            Make bureaucracies less time consuming            	|
 |                   Consumers                   	|              Misdelivered packages             	|               Flexible exchanges and returns              	|                                                              	|
-|                    Sellers                    	|              Confusing interfaces              	|               Simple and accessible platform              	|                                                              	|
+|                    Independent sellers                    	|              Confusing interfaces              	|               Simple and accessible platform              	|                                                              	|
