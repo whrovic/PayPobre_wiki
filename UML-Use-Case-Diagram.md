@@ -1,3 +1,1 @@
-[TODO] UML Use Case Diagram deliverable
-
-All the use cases that depict the interactions between actors and the developed application, giving a holistic perspective of the system and its boundaries. 
+[Use_case_diagram](uploads/a4f061a7c76dc380e809613231a7a59c/Use_case_diagram.pdf)
