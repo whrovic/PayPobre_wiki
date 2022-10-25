@@ -1,3 +1,7 @@
+![unknown](uploads/45005cae7f06105462eeb9321455aaef/unknown.png)
+
+---
+
 | Sign up a new user |
 |--------------------|
 | 1. PayPobre asks to create a new user account |
@@ -22,4 +26,3 @@
 | 4a. If the reason is valid and the conditions are meet, the administrator cancels the transaction |
 | 3b. Shipping partner accepts and confirms the delivery request |
 | 4b. Transaction done |
-
