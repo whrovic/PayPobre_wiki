@@ -1,6 +1,5 @@
-| Product Backlog |                    |                                            |                                                                             |          |        |                  |
-|-----------------|--------------------|--------------------------------------------|-----------------------------------------------------------------------------|----------|--------|------------------|
-| ID              | As a…              | I want to be able to…                      | So that…                                                                    | Priority | Sprint | Status           |
+| ID              | As a…              | I want to be able to…                      | So that…                                                                    |-----------------|--------------------|--------------------------------------------|-----------------------------------------------------------------------------|----------|--------|------------------|
+| Priority | Sprint | Status           |
 | 1               | User               | create an account                          | I can have access to PayPobre services                                      | Must     | 2      | Work in progress |
 | 2               | User               | log in and log out                         | I can access my profile                                                     | Must     | 2      | Work in progress |
 | 3               | User               | change my password                         | I can keep my account safe                                                  | Should   | 2      | Work in progress |
