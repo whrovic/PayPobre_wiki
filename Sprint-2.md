@@ -12,8 +12,6 @@
 | 4  | User  | update my contact details | I can be contacted by Administrators / by clients for support |
 | 5  | User  | update my profile details | I can keep my information updated                             |
 
----
-
 **Done User Stories:**
 
 **Sprint Retrospective:**
