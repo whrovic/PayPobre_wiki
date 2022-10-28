@@ -1,6 +1,1 @@
-|        []()           |                       |                       |                       |
-|-----------------------|-----------------------|-----------------------|-----------------------|
-| Test Scenario ID      |                       | Test Case ID          |                       |
-| Test Case Description |                       | Test Priority         |                       |
-| Pre-Requisite         |                       | Post-Requisite        |                       |
-
+![image](uploads/ac3811f368d6b6c099858593ba709314/image.png)
