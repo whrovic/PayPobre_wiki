@@ -2,7 +2,7 @@
 
 ---
 
-| Sign In |
+| Sign in |
 |---------|
 | 1. PayPobre asks to create a new user account |
 | 2. New user selects account type |
