@@ -1,9 +1,9 @@
-![image](uploads/ae2705757214e38aa2f4f50847476758/image.png)
+![image](uploads/69724e5589dd09904a47997e2de9c5e3/image.png)
 
 ---
 
-| Sign up a new user |
-|--------------------|
+| Sign In |
+|---------|
 | 1. PayPobre asks to create a new user account |
 | 2. New user selects account type |
 | 3. New user introduces account details and contacts (name, email, password, phone number, credit card) |
