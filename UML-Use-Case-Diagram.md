@@ -1,4 +1,4 @@
-![image](uploads/3b125e0b57701d668003398facd4f7cd/image.png)
+![image](uploads/3bb8e53a18272358e2d9b5f8067fdbdc/image.png)
 
 ---
 
@@ -25,7 +25,7 @@
 | 1. Commercial account asks to do a transaction, addressing the respective information |
 | 2. Personal account accepts the transaction |
 | 3a. Personal account performs a cancel request |
-| 4a. If the reason is valid and the conditions are meet, the administrator cancels the transaction |
+| 4a. If the reason is valid and the conditions are meet, the commercial account accepts the cancel request |
 | 3b. Commercial account confirms the delivery |
 | 4b. Transaction done |
 
