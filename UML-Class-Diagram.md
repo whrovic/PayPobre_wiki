@@ -1,1 +1,1 @@
-![PayPobre_ClassDiagram](uploads/8d281f4ffb70f2314cf255b20acb31b8/PayPobre_ClassDiagram.png)
+![PayPobre_ClassDiagram](uploads/e3bee0abbf09b3d5ec48bf1ffcf61a46/PayPobre_ClassDiagram.png)
