@@ -1,5 +1,4 @@
-[TODO] UI (User Interface) Mockups deliverable.
+![image](uploads/182a1b7746c2c6db3d124a5ecc98c4d7/image.png)
+![image](uploads/79410e274bf25fb6168382c73a8c312b/image.png)
+![image](uploads/238cadabc5e10e306cd666452d23c774/image.png)
 
-You are only required to provide non-functional mockups (can be a drawings or you can use any free UI mockup tool). User Stories (and their Acceptance Tests) usually refer to one or more UI mockups, that depict their functionality in visual terms. Don't forget to link these together, for effective traceability. 
-
-If your project does not have a Graphical User Interface, you should provide a suitable textual/visual depiction of how the user is to interact with your application, as to understand, at least, how to perform the acceptance tests.
