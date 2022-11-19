@@ -14,6 +14,5 @@
 - _Who is competing and how do they perform?_
 
   There are many competitors in this market, such as PayPal, Amazon Pay, Apple Pay or Google Pay, each of them having millions of users and billions of dollars in revenue in the last year.
-- _What timeframe and product development budget determine the project?_
-
-  The project must be concluded untill the end of the semester. Since this is a university project there will be no budget associated.
+- _What timeframe and product development budget determine the project?_\
+  <span dir="">The project must be completed by the end of the semester. As it is a university project, there is no associated budget.</span>
