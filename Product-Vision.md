@@ -1,8 +1,1 @@
-VISION – For anyone who either sells or buys products online, that naturally fear to be victim of frauds or misdeliveries, PayPobre is a reliable online payment system where each transaction is concluded only upon delivery, which is made possible by our association with shipping partners, making it simpler to address order returns
-
-| Target Group                                  	| Needs                                          	| Product                                                   	| Business Goal                                                	|
-|-----------------------------------------------	|------------------------------------------------	|-----------------------------------------------------------	|--------------------------------------------------------------	|
-| For anyone who buys or sells products online 	|                     Frauds                     	|          Safe and transparent money transactions          	| As a company, we want to make negotiations more efficient    	|
-|                   Companies                   	| Paid deliveries that never get to the costumer 	| Deliver confirmation with the respective shipping company 	|            Make bureaucracies less time consuming            	|
-|                   Consumers                   	|              Misdelivered packages             	|               Flexible exchanges and returns              	|                                                              	|
-|                    Independent sellers                    	|              Confusing interfaces              	|               Simple and accessible platform              	|                                                              	|
+![image](uploads/3facdc2c0abc2b94bddcd65e1d5b4617/image.png)
