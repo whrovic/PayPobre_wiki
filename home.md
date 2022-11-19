@@ -1,1 +1,1 @@
-Home of the wiki for the Main Quest project and deliverables 
+Home of the wiki for the PayPobre project and deliverables.
