@@ -14,4 +14,8 @@ All these Sprint-related items should be produced at the end of each sprint
 
 **Sprint Goal:** In this sprint our goal was to implement a robust Login and Sign-Up page, which we were able to accomplish, and from there start developing the actual program,
 
-**Sprint Planning:** 
+**Sprint Planning:**
+| ID | As a… | I want to be able to… | So that…                               | Priority | Sprint | Status |
+|----|-------|-----------------------|----------------------------------------|----------|--------|--------|
+| 1  | User  | create an account     | I can have access to PayPobre services | Must     | 3      | Done   |
+| 2  | User  | log in and log out    | I can access my profile                | Must     | 3      | Done   |
