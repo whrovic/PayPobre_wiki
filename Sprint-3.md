@@ -1,17 +1,3 @@
-\[TODO\] Sprint 3 resume deliverable
-
-It should contain:
-
-- Sprint Goal: The defined goal of the sprint, summarizing the main objectives in terms of product/release functionalities.
-- Sprint Planning: a list of estimated User Stories that are planned to be completed by the end of the Sprint.
-- Done User Stories: a list of the actual User Stories that were completed during that Sprint.
-- Sprint Retrospective: "Did well", "Do differently", "Puzzles".
-- Sprint Review: A team and product owner' perspective of the product increment of the current sprint.
-
-All these Sprint-related items should be produced at the end of each sprint
-
----
-
 ## **Sprint Goal:**
 
 In this sprint our goal was to implement a robust Login and Sign-up page and improve some aspects of previous Sprints.
@@ -51,4 +37,4 @@ By now, our product is starting to have an identity, we even have an official lo
 
 - **Alexandre Mourão**: <span dir="">In this sprint, I was responsible for the back-end development of the program, having developed and managed the connection between database and java program as well as the sign up of users into the database and their log ins.</span>
 - **Pedro Duarte**: <span dir="">In this sprint, I was responsible for the front-end design, having managed to complete the design of the Login and Sign up pages and even started to develop the home page. Moreover, I took advantage of this sprint to redo the Product Vision and Product Vision Board and to add some acceptance tests.</span>
-- **Tiago Ribeiro**: In this sprint, <span dir="">I worked on both front-end and back-end. My main role was to ensure that my colleagues' work matched each other</span>, being responsible to making our app GUI usable, handling every scene, action and event.  
+- **Tiago Ribeiro**: In this sprint, <span dir="">I worked on both front-end and back-end. My main role was to ensure that my colleagues' work matched each other</span>, being responsible to making our app GUI usable, handling every scene, action and event.
