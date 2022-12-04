@@ -1,3 +1,1 @@
-[TODO] UML Sequence Diagram deliverable 
-
-(check the iteration guide on moodle for more details on this deliverable, later on).
+![image](uploads/37e94c1393bf77e9cbee8af7753421b7/image.png)
