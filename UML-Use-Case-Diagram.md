@@ -1,4 +1,4 @@
-![image](uploads/3bb8e53a18272358e2d9b5f8067fdbdc/image.png)
+![image](uploads/11777a0975f0e53bbecc3d477c8a8ee7/image.png)
 
 ---
 
