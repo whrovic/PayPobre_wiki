@@ -1,3 +1,3 @@
 This UML Sequence Diagram applies to the login feature.
 
-![image](uploads/1f3d117b09982d1d374dd1667f65d4bd/image.png)
+![image](uploads/d67045a858f62493b4657bfe1514be32/image.png)
