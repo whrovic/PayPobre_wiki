@@ -5,9 +5,9 @@
 | Sign in |
 |---------|
 | 1. PayPobre asks to create a new user account |
-| 2. New user selects account type |
-| 3. New user introduces account details and contacts (name, email, password, phone number, credit card) |
-| 4a. New user’s details and contacts are invalid |
+| 2. New user selects account type and introduces account details (name, email, password, credit card) |
+| 3a. New user's details are empty |
+| 3a. New user’s details and contacts are invalid |
 | 5a. Go back to sign up page |
 | 4b. New user’s details and contacts are valid |
 | 5b. New user created |
