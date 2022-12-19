@@ -14,21 +14,21 @@ The goal of this sprint was to finalize all of our User Stories both in back-end
 
 # Sprint Planning - Backlog
 
-| ID | As a… | I want to be able to… | So that… | Priority | Sprint | Status |
-|----|-------|-----------------------|----------|----------|--------|--------|
-| 1 | User | create an account | I can have access to PayPobre services | Must | 3 | Done |
-| 2 | User | log in and log out | I can access my account | Must | 3 | Done |
-| 3 | Personal account | deposit/withdraw money in my PayPobre account | I can manage the money available for my future transactions | Must | 4 | Done |
-| 4 | Personal account | accept a transaction | I can buy | Must | 4 | Work in Progress |
-| 5 | Commercial account | to issue a transaction | I can sell my product | Must | 4 | Done |
-| 6 | Personal account | see my money available | I can monitor the money I can spend | Should | 4 | Done |
-| 7 | Personal account | see my transactions | I can monitor them | Could | 4 | Work in Progress |
-| 8 | Personal account | perform a cancel request | my transaction can be canceled, as long as the conditions are meet | Won't | 5 | To be Started |
-| 9 | Commercial account | accept a cancel request | I can return the money to the buyer in case he requested | Won't | 5 | To be Started |
-| 10 | Personal account | send money to other accounts | I can borrow/give them money remotely | Could | 5 | Done |
-| 11 | User | change my password | I can keep my account safe | Should | 5 | Work in Progress |
-| 12 | User | change my credit card | I can use a different credit card | Should | 5 | Work in Progress |
-| 13 | User | update my profile details | I can keep my information updated | Should | 5 | Work in Progress |
+| ID | As a… | I want to be able to… | So that… | Priority | Status |
+|----|-------|-----------------------|----------|----------|--------|
+| 1 | User | create an account | I can have access to PayPobre services | Must | Done |
+| 2 | User | log in and log out | I can access my account | Must | Done |
+| 3 | Personal account | deposit/withdraw money in my PayPobre account | I can manage the money available for my future transactions | Must | Done |
+| 4 | Personal account | accept a transaction | I can buy | Must | Work in Progress |
+| 5 | Commercial account | to issue a transaction | I can sell my product | Must | Done |
+| 6 | Personal account | see my money available | I can monitor the money I can spend | Should | Done |
+| 7 | Personal account | see my transactions | I can monitor them | Could | Work in Progress |
+| 8 | Personal account | perform a cancel request | my transaction can be canceled, as long as the conditions are meet | Won't | To be Started |
+| 9 | Commercial account | accept a cancel request | I can return the money to the buyer in case he requested | Won't | To be Started |
+| 10 | Personal account | send money to other accounts | I can borrow/give them money remotely | Could | Done |
+| 11 | User | change my password | I can keep my account safe | Should | Work in Progress |
+| 12 | User | change my credit card | I can use a different credit card | Should | Work in Progress |
+| 13 | User | update my profile details | I can keep my information updated | Should | Work in Progress |
 
 # Sprint Retrospective
 
@@ -50,4 +50,4 @@ Excuses aside, we are happy with our Project, and what PayPobre has become.
 
 > **Alexandre Mourão:** <span dir="">In this sprint, I was responsible for the back-end development of the program having implemented the sendMoney function, the query of all pending transfers and transfers of a user. I was responsible as well for the improvements of the mockups and the unit tests.</span>
 
-> **Pedro Duarte:** 
+> **Pedro Duarte:**
