@@ -32,12 +32,22 @@ The goal of this sprint was to finalize all of our User Stories both in back-end
 
 # Sprint Retrospective
 
-We have to start this Sprint review by saying that, despite all of our effort, it has been extremely hard to reconcile all the projects that we have from other coursers, specially with deadlines so close to each other. 
+We have to start this Sprint review by saying that, despite all of our effort, it has been extremely hard to reconcile all the projects that we have from other coursers, specially with deadlines so close to each other.
 
 Excuses aside, we are happy with our Project, and what PayPobre has become.
 
-* **Did Well** 
+* **Did Well**
   * We managed to come up with a very consistent, intuitive and good looking user interface;
   * Every feature implemented was tested many times and seems to be quite stable;
 * **Do differently**
-  * Time management - There are too many lectures 
+  * Time management
+* **Puzzles**
+  * Besides our issue with time, in this Sprint we didn´t had as many struggles as we used to have on previous ones;
+
+# Sprint Review
+
+> **Tiago Ribeiro:** In this Sprint I was responsible for Back and Front-end development, therefore I made major and minor improvements in every new feature implemented, having also updated the Class Diagram and Product Backlog (User Stories).
+
+> **Alexandre Mourão:** <span dir="">In this sprint, I was responsible for the back-end development of the program having implemented the sendMoney function, the query of all pending transfers and transfers of a user. I was responsible as well for the improvements of the mockups and the unit tests.</span>
+
+> **Pedro Duarte:** 
