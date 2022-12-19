@@ -40,4 +40,4 @@ Excuses aside, we are happy with our Project, and what PayPobre has become.
 
 > **Alexandre Mourão:** <span dir="">In this sprint, I was responsible for the back-end development of the program having implemented the sendMoney function, the query of all pending transfers and transfers of a user. I was responsible as well for the improvements of the mockups and the unit tests.</span>
 
-> **Pedro Duarte:**
+> **Pedro Duarte:** In this sprint, I was one more time responsible for the front-end design, having managed to finish the design of all main pages and popup windows. Moreover, I took advantage of this sprint to update the Use Case Diagram, the Sequence Diagram and  Acceptance Tests.
