@@ -1,4 +1,3 @@
-Client Diagram: ![image](uploads/9b7150b28019c910d874cf7bc69fcbd6/image.png)
 
 ---
 
