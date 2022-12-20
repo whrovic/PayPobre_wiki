@@ -1,3 +1,1 @@
-[TODO] Deployment Diagram deliverable
-
-The physical deployment of your system, depicting the mapping of (system) components to (physical) nodes. It should come as an aid to installing the system.
+![Diagrama_em_branco](uploads/d86a2d28183a113e9e2024589e3c4bdf/Diagrama_em_branco.png)
