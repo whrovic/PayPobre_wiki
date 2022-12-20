@@ -19,14 +19,14 @@
 | b. User email and password are correct |
 | b. Login done |
 
-| Transaction (pre-requisite: buyer logged in with personal acc. and seller logged in with commercial acc.) |  |
-|-----------------------------------------------------------------------------------------------------------|--|
-| Commercial account issues a transaction, addressing the respective information |  |
-| a. Personal account cancels the transaction |  |
-| b. Personal account accepts the transaction |  |
-| b1. Personal account performs a cancel request |  |
-| b1. If the reason is valid and the conditions are meet, the commercial account accepts the cancel request |  |
-| b2. Transaction done |  |
+| Transaction (pre-requisite: buyer logged in with personal acc. and seller logged in with commercial acc.) |
+|-----------------------------------------------------------------------------------------------------------|
+| Commercial account issues a transaction, addressing the respective information |
+| a. Personal account cancels the transaction |
+| b. Personal account accepts the transaction |
+| b1. Personal account performs a cancel request |
+| b1. If the reason is valid and the conditions are meet, the commercial account accepts the cancel request |
+| b2. Transaction done |
 
 | Update Profile (pre-requisite: logged in with valid user account) |
 |-------------------------------------------------------------------|
