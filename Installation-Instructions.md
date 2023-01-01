@@ -1,5 +1,3 @@
-# Installation Instructions
-
 To use our application, please follow the instructions provided in our guide and download the .jar file
 
 [PayPobre.jar](uploads/12708c7ecff1759e04bd1a7541179039/PayPobre.jar)
